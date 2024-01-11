@@ -1,11 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <title>Document</title>
-</head>
-<body>
- <H1>Projet d'Anna</H1>
-</body>
-</html>
+#Projet Anna
+Voici le projet Anna_Test.
+Il permet de tester le fonctionnement de **git**.
+## Objectifs
+Cette exploration doit permettre de réviser
+- [x] Markdown
+- [x] HTML
+- [x] JavaScript
+- [ ] Emmet
+Mais également découvrir le fonctionnement de git.
+![](https://www.01gifs.com/smileys/reflexion/1.gif)
