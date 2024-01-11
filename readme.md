@@ -6,6 +6,5 @@
  <title>Document</title>
 </head>
 <body>
- <H1>Projet d'Anna</H1>
 </body>
 </html>
